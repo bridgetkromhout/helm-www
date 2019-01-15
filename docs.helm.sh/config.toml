@@ -7,9 +7,9 @@ contentDir = "content"
 publishdir = "app"
 
 [params]
-    title = "Helm Docs"
+    title = "Helm"
     author = "Ronan Flynn-Curran"
-    description = "Documentation for Helm - The Kubernetes Package Manager."
+    description = "Helm - The Kubernetes Package Manager."
 
 canonifyURLs = "false"
 relativeURLs = "true"
